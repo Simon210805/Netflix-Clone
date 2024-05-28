@@ -1,0 +1,3 @@
+from where we get the requests?
+
+https://netflix-clone-by-simon.netlify.app/

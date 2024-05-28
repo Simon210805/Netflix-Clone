@@ -1,0 +1,40 @@
+.content{
+    padding-top: 200px;
+    font-size: 15px;
+}
+.button1{
+    padding: 7px 30px;
+    margin: 0 20px;
+    border: none;
+}
+.button1:hover{
+    background-color: rgb(234, 233, 233);
+}
+.button2{
+    padding: 7px 25px;
+    margin: 0 20px;
+    border: none;
+    background-color: rgb(102, 102, 102);
+    color: white;
+}
+.button2:hover{
+    background-color: white;
+    color: black;
+}
+.description{
+    font-size: medium;
+    width: 20rem;
+}
+.fade_bottom{
+    height: 45vh;
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,0.61),#111);
+}
+
+.fade_bottom {
+    width: 100%;
+    top: 0;
+    z-index: 100;
+    margin-bottom: -725px;
+
+}
+

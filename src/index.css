@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box !important;
+}
+body{
+font-family: 'Comfortaa', sans-serif;  background-color: #141414;
+}
+.row{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300,400,500,600,700&display=swap');  */
+

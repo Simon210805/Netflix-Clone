@@ -1,0 +1,22 @@
+li{
+    list-style: none;
+    color: white;
+}
+.header-container{
+    width: 100% !important;
+}
+.header{
+    background-color: black !important;
+    padding: 10px 0;
+    width: 100%;
+}
+.header ul{
+    padding: 0 20px;
+}
+.header ul{
+    padding-top: 5px;
+}
+.header a img {
+    width: 100px;
+    height: auto;
+}
